@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Backend Web Development
 - 💞️ I’m looking to collaborate on Full Stack Web Development
-- 📫 You can reach me on Instgram - @amn.makhija
+- 📫 You can reach me on Instagram - @amn.makhija
 
 <!---
 amanmakhija/amanmakhija is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
