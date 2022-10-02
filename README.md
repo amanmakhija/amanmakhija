@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @amanmakhija
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Backend Web Development
-- 💞️ I’m looking to collaborate on Full Stack Web Development
+- 🌱 I’m currently learning Android Application Development
+- 💞️ I’m looking to collaborate on Full Stack Web Development Project
 - 📫 You can reach me on Instagram - @amn.makhija
 
 <!---
