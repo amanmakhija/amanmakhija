@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **rust**
 
-- 👨‍💻 All of my projects are available at [amanmakhija.me](https://amanmakhija.me)
+- 👨‍💻 All of my projects are available at [amanmakhija.select](https://amanmakhija.select)
 
 - 📫 How to reach me **amanmakhija2205@gmail.com**
 
