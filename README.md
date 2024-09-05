@@ -1,9 +1,9 @@
 <h1 align="left">Hi 👋, I'm Aman</h1>
-<h3 align="left">A passionate Full-Stack Web and Android Developer from India</h3>
+<h3 align="left">A passionate Full-Stack Developer from India</h3>
 
 <p align="left"> <a href="https://twitter.com/amnmakhija" target="blank"><img src="https://img.shields.io/twitter/follow/amnmakhija?logo=twitter&style=for-the-badge" alt="amnmakhija" /></a> </p>
 
-- 🌱 I’m currently learning **rust**
+- 🌱 I’m currently learning **Go**
 
 - 👨‍💻 All of my projects are available at [amanmakhija.select](https://amanmakhija.select)
 
