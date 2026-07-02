@@ -1,19 +1,16 @@
 <h1 align="left">Hi 👋, I'm Aman</h1>
 <h3 align="left">A passionate Full-Stack Developer from India</h3>
 
-<p align="left"> <a href="https://twitter.com/amnmakhija" target="blank"><img src="https://img.shields.io/twitter/follow/amnmakhija?logo=twitter&style=for-the-badge" alt="amnmakhija" /></a> </p>
-
 - 🌱 I’m currently learning **Go**
 
-- 👨‍💻 All of my projects are available at [amanmakhija.select](https://amanmakhija.select)
+- 👨‍💻 All of my projects are available at [amanmakhija.in](https://amanmakhija.in)
 
 - 📫 How to reach me **amanmakhija2205@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/amnmakhija" target="_blank"><img align="center" src="https://seeklogo.com/images/T/twitter-x-logo-0339F999CF-seeklogo.com.png?v=638264860180000000" alt="amnmakhija" height="40" width="40" /></a>
 <a href="https://linkedin.com/in/aman-makhija" target="_blank"><img align="center" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-128.png" alt="aman-makhija" height="40" width="40" /></a>
-<a href="https://instagram.com/amn.makhija" target="_blank"><img align="center" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Instagram_colored_svg_1-128.png" alt="amn.makhija" height="40" width="40" /></a>
+<a href="https://instagram.com/amnnnmakhija" target="_blank"><img align="center" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Instagram_colored_svg_1-128.png" alt="amn.makhija" height="40" width="40" /></a>
 <a href="https://www.leetcode.com/amanmakhija" target="_blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-256/free-leetcode-3628885-3030025.png" alt="amanmakhija" height="40" width="40" /></a>
 </p>
 
